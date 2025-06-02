@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I've created this to play around with soccer analytics. It could be slow going...
+
 <!--
 **joeninhoanalytics/joeninhoanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
